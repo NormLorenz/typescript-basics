@@ -72,3 +72,10 @@ function createTruck(name: string, sizes: string[]): Truck {
 }
 
 const truck = createTruck('Dodge', ['small', 'medium']);
+
+// static properties/methods
+class Coupon {;
+  static allowed = ['pepperoni', 'blazing inferno'];
+}
+
+console.log(Coupon.allowed);

@@ -2,6 +2,8 @@
 
 * pure verses impure function
 * void is used for an impure function
+* immediately invoked function
+* javascript doesn't have the notion of public or private
 
 ## function types
 
